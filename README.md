@@ -87,7 +87,7 @@ To deliver a data-driven visualization tool that:
 **Dashboard Overview**  
 *(Insert image link once uploaded to repo — e.g. `![Dashboard Screenshot](assets/NYC_Taxi_Dashboard.png)`)*
 
-Show what the dashboard looks like. - ![Alt text]([https://github.com/username/repo/assets/image.png](https://github.com/Ehtesham1234/NYC-Taxi-Service-Analytics-Dashboard-Full-stack/blob/main/NYC-Taxi-Service-Analytics-Dashboard.png?raw=true))
+Show what the dashboard looks like. -
 ![Dashboard Preview](https://github.com/Ehtesham1234/NYC-Taxi-Service-Analytics-Dashboard-Full-stack/blob/main/NYC-Taxi-Service-Analytics-Dashboard.png)
 
 
